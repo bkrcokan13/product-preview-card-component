@@ -127,6 +127,17 @@ body {
   transition: 0.3s linear;
 }
 
+.attribution {
+  margin-top: 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.attribution a {
+  text-decoration: none;
+  font-weight: 700;
+  color: hsl(158, 36%, 37%);
+}
+
 @media screen and (min-width: 2560px) {
   #add-cart-button {
     height: 6vh;
@@ -192,6 +203,10 @@ body {
   .product-type h4 {
     font-size: 12px;
   }
+  .attribution {
+    text-align: center;
+    font-size: 12px;
+  }
 }
 
 @media screen and (min-width: 375px) {
@@ -231,6 +246,11 @@ body {
     
       .product-type h4 {
         font-size: 12px;
+      }
+
+      .attribution {
+        text-align: center;
+        font-size: 16px;
       }
    
     
@@ -275,6 +295,11 @@ body {
       .product-type h4 {
         font-size: 12px;
       }
+
+      .attribution {
+        text-align: center;
+        font-size: 16px;
+      }
     
    
     
@@ -286,7 +311,7 @@ body {
     .product-card {
         flex-direction: row;
         height: 65vh;
-        width: 70%;
+        width: 60%;
       }
       
       .product-picture {
