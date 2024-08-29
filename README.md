@@ -14,7 +14,7 @@ A simple and responsive product preview card component built using HTML and CSS.
 
 ## Demo
 
-Check out the live demo: [Product Preview Card Component Demo](#) *(Replace `#` with the actual link if available)*
+Check out the live demo: [Product Preview Card Component Demo](https://main--remarkable-begonia-46b8ff.netlify.app/)
 
 ## Features
 
